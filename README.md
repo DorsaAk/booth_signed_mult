@@ -1,7 +1,7 @@
 # Verilog Signed Multiplier using Booth Encoding
 ![Verilog](https://img.shields.io/badge/Verilog-FFFFFF?style=for-the-badge&color=FFBF00)
 ![ModelSim](https://img.shields.io/badge/ModelSim-white?style=for-the-badge&color=428475)
-![RTL](https://img.shields.io/badge/RTL-white?style=for-the-badge&color=FF6A1C)
+![CA](https://img.shields.io/badge/Computer%20Architecture-white?style=for-the-badge&color=FF6A1C)
 ![Digital Design](https://img.shields.io/badge/Digital%20Design-white?style=for-the-badge&color=4647AE)
 
 A compact, fully synthesizable signed multiplier built around **Booth's Algorithm**. All functional verification was performed in **ModelSim**. The testbench feeds the multiplier a sweep of signed inputs -positive and negative edge cases, and random pairs- and compares each result against a behavioral golden model.
